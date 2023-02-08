@@ -10,11 +10,15 @@
 helloStr=Hello
 goodbyeStr=Goodbye
 worldStr=World
+welcomeStr='Welcome to my World'
 
 echo $helloStr $worldStr
 echo
+echo $welcomeStr
+echo
 echo $goodbyeStr $worldStr
 echo
+
 
 
 
