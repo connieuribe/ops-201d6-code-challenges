@@ -2,7 +2,7 @@
 
 # Script: Ops 201 Class 02 Ops Challenge Solution
 # Author: Connie Uribe Chavez
-# Date of lates revision: 07 Feb 2013
+# Date of lates revision: 07 Feb 2023
 # Purpose: Prints a string to the terminal
 
 # Main
