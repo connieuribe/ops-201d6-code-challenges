@@ -1,3 +1,9 @@
+# Script: Ops 201 Class 11 Ops Challenge Solution
+# Author: Connie Uribe Chavez
+# Date of lates revision: 20 Feb 2023
+# Purpose: Write a Powershell script that automates the configuration of a new Windows 10 endpoint.
+
+# Main
 #Write a Powershell script that automates the configuration of a new Windows 10 endpoint.
 #HELPFUL SOURCES: https://github.com/superswan/Powershell-SysAdmin
 #https://woshub.com/how-to-disable-smb-1-0-in-windows-10-server-2016/
@@ -30,3 +36,5 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
 
 #Disable SMBv1, and insecure protocol
 Dism /online /Disable-Feature /FeatureName:"SMB1Protocol"
+
+#END
