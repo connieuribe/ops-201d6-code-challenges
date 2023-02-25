@@ -3,8 +3,8 @@ Code challenges for Code Fellows Ops 201 to practice Bash scripts and Powershell
 
 Content: Concepts learned
 
-| Content   | Description |
-| ----------| --- |
+| Content            | Description |
+| ----------         | --- |
 | [Ops Challenge 02](https://github.com/connieuribe/ops-201d6-code-challenges/blob/main/ops-challenge02.sh)     | Prints a string to the terminal |
 | [Ops Challenge 03](https://github.com/connieuribe/ops-201d6-code-challenges/blob/main/ops-challenge03.sh)      | Prints the login history of users on this computer    |
 | [Ops Challenge 04](https://github.com/connieuribe/ops-201d6-code-challenges/blob/main/ops-challenge04.sh)   | Working with arrays and directories |
